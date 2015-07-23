@@ -11,3 +11,9 @@ Run following command to start project:
 Nodemon is recommended, to restart node automaticlaly when source changes
     nodemon
     
+
+
+# Server side
+Expose REST APIs
+    GET /todo  get all todo items
+    
