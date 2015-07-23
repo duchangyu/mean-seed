@@ -1,0 +1,19 @@
+{
+  "name": "mean-seed",
+  "version": "0.0.1",
+  "description": "A seed project with MEAN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duchangyu/mean-seed.git"
+  },
+  "author": "Changyu Du <duchangyu@gmail.com> (duchangyu.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duchangyu/mean-seed/issues"
+  },
+  "homepage": "https://github.com/duchangyu/mean-seed#readme"
+}
